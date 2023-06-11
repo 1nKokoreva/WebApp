@@ -33,6 +33,7 @@ Access the application through a web browser.
 
 Use the provided forms to search for Java elements, add new elements, or retrieve book reviews.
 
+# Website design
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/a67dc2b0-471c-44e6-8ab1-2d199a125bd0)
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/38dd57d0-8bfb-4976-b790-8ab6e007076a)
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/01b4263c-e1d5-4ae3-949a-6a6dbc738265)
