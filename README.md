@@ -33,10 +33,10 @@ Access the application through a web browser.
 
 Use the provided forms to search for Java elements, add new elements, or retrieve book reviews.
 
-# Dependencies
-Java Servlet API
-Jakarta Servlet API
-MySQL Connector/J
-Note: Make sure to configure the database connection settings (URL, username, password) in the DBOService class according to your environment.
+![image](https://github.com/1nKokoreva/WebApp/assets/127196631/a67dc2b0-471c-44e6-8ab1-2d199a125bd0)
+![image](https://github.com/1nKokoreva/WebApp/assets/127196631/38dd57d0-8bfb-4976-b790-8ab6e007076a)
+![image](https://github.com/1nKokoreva/WebApp/assets/127196631/01b4263c-e1d5-4ae3-949a-6a6dbc738265)
+![image](https://github.com/1nKokoreva/WebApp/assets/127196631/288a77c2-9fef-43e9-b3e4-6a4f5b307537)
+![image](https://github.com/1nKokoreva/WebApp/assets/127196631/5a7c54bb-121c-4f38-a68c-119e58295390)
 
-This project can be further enhanced by adding additional features such as updating and deleting Java elements, implementing user authentication and authorization, and improving the user interface.
+
