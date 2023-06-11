@@ -37,6 +37,7 @@ Use the provided forms to search for Java elements, add new elements, or retriev
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/38dd57d0-8bfb-4976-b790-8ab6e007076a)
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/01b4263c-e1d5-4ae3-949a-6a6dbc738265)
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/288a77c2-9fef-43e9-b3e4-6a4f5b307537)
-![image](https://github.com/1nKokoreva/WebApp/assets/127196631/5a7c54bb-121c-4f38-a68c-119e58295390)
+![image](https://github.com/1nKokoreva/WebApp/assets/127196631/30f9f93f-04d7-44fd-88ec-a9469df57b28)
+![Uploading image.png…]()
 
 
