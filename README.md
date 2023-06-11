@@ -38,6 +38,11 @@ Use the provided forms to search for Java elements, add new elements, or retriev
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/01b4263c-e1d5-4ae3-949a-6a6dbc738265)
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/288a77c2-9fef-43e9-b3e4-6a4f5b307537)
 ![image](https://github.com/1nKokoreva/WebApp/assets/127196631/30f9f93f-04d7-44fd-88ec-a9469df57b28)
-![Uploading image.png…]()
 
+# # Important!
+Before running the program, please follow these steps:
+
+1. Specify the URL, username, and password to connect to your local database. These parameters should match your configuration.
+
+2. Add the data from the MyOwnDataBase file to your database. This file contains the necessary data that the application will use.
 
